@@ -42,19 +42,19 @@ File penyimpanan data mahasiswa dalam format CSV.
 
 ## Screenshot Menu Program
 
-![Menu Program](docs/screenshot_menu.png)
+![Menu Program](docs/Screenshot_menu.png)
 
 ---
 
 ## Screenshot Data Mahasiswa
 
-![Data Mahasiswa](docs/screenshot_data.png)
+![Data Mahasiswa](docs/Screenshot_data.png)
 
 ---
 
 ## Screenshot File CSV
 
-![File CSV](docs/screenshot_csv.png)
+![File CSV](docs/Screenshot_csv.png)
 
 ---
 

@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "april",
+        "nim": "2025806071",
+        "nilai_akhir": 80.0,
+        "mutu": "90.0"
+    },
+    {
+        "nama": "adillah",
+        "nim": "2025806075",
+        "nilai_akhir": 70.0,
+        "mutu": "80.0"
+    },
+    {
+        "nama": "salsabila",
+        "nim": "2025806068",
+        "nilai_akhir": 100.0,
+        "mutu": "75.0"
+    }
+]

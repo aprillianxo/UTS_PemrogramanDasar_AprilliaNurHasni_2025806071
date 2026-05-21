@@ -1,0 +1,13 @@
+=== LAPORAN ANALISIS TEKS ===
+Jumlah baris: 1
+Jumlah kata: 33
+5 kata yang paling sering muncul: kata, panjang, bahasa, analisis, umumnya
+Jumlah huruf vokal: 96
+Jumlah huruf konsonan: 120
+
+=== Grafik Frekuensi Kata ===
+kata            ####
+panjang         ##
+bahasa          ##
+analisis        #
+umumnya         #
